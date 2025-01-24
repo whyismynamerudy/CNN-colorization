@@ -1,0 +1,10 @@
+torch
+scikit-learn==1.2.2
+scikit-image
+numpy
+matplotlib
+argparse
+pillow
+
+tqdm==4.66.1
+opencv-python==4.8.1.78
